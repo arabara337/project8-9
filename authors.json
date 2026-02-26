@@ -1,0 +1,14 @@
+[
+  {
+    "fullname": "Steve Martin",
+    "born_date": "August 14, 1945",
+    "born_location": "Waco, Texas, U.S.",
+    "description": "Stephen Glenn Martin is an American actor, comedian, writer, producer, and musician."
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "Ulm, Germany",
+    "description": "Albert Einstein was a theoretical physicist who developed the theory of relativity."
+  }
+]

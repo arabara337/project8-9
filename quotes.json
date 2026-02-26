@@ -1,0 +1,17 @@
+[
+  {
+    "tags": ["life", "humor"],
+    "author": "Steve Martin",
+    "quote": "A day without sunshine is like, you know, night."
+  },
+  {
+    "tags": ["science", "life"],
+    "author": "Albert Einstein",
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+  },
+  {
+    "tags": ["inspiration"],
+    "author": "Albert Einstein",
+    "quote": "Imagination is more important than knowledge."
+  }
+]
